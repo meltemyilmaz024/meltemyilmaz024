@@ -6,13 +6,11 @@
 
 <h3 align="center">Tennis-Nature-Sea</h3>
 
-<p align="left">
-  
-- 🔭 I’m currently working on Havelsan
 
-- 🌱 I’m currently learning **Deep Learning**
-</p>
-
+<br>
+<p align="center">  - 🔭 I’m currently working on Havelsan </p>
+<br>
+<p align="center"> - 🌱 I’m currently learning **Deep Learning** </p>
 <br>
 
 <h2 align="center">Languages and Tools</h2>
