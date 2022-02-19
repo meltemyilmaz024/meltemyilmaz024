@@ -4,7 +4,7 @@
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Meltem YILMAZ</h1>
+<h1 align="center">Hi there 👋 </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meltemyilmaz024&label=Profile%20views&color=0e75b6&style=flat" alt="meltemyilmaz024" /> </p>
@@ -18,10 +18,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=meltemyilmaz024&show_icons=true&locale=en" alt="meltemyilmaz024" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltemyilmaz024&show_icons=true&locale=en&layout=compact" alt="meltemyilmaz024" /></p>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=meltemyilmaz024&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/meltemyilmaz024/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltemyilmaz024&show_icons=true&locale=en&layout=compact&theme=radical&hide_rank=false" alt="meltemyilmaz024" /></p>
 
 
 
