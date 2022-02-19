@@ -1,7 +1,24 @@
-### Hi there 👋
+<p align=”center”>
+  
+![Nature business LinkedIn banner](https://user-images.githubusercontent.com/26241718/154819422-7f6267a4-02e8-4531-ae71-3bfa8817e15c.png)
+
+</p>
+
+### Hi there 👋 :hibiscus:
+
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=meltemyilmaz024&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/meltemyilmaz024/github-readme-stats)
+
+
 
 <!--
 **meltemyilmaz024/meltemyilmaz024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+#### Technologies 
+
+#### Welcome to my profile :blush: ! I hope you can find your medicine :hugs: :wink: 	
+
+<a href="https://www.linkedin.com/in/meltem-yilmaz-832b2a75/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Meltem YILMAZ | LinkedIn" width="21px"/></a>
 
 Here are some ideas to get you started:
 
