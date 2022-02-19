@@ -26,7 +26,6 @@
 
 <h1 align="center">GitHub Analytics</h1>
 <p align="center">
-
 <a href="https://github.com/meltemyilmaz024">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=meltemyilmaz024&show_icons=true&locale=en&theme=radical&hide_rank=false" alt="meltemyilmaz024" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltemyilmaz024&show_icons=true&locale=en&layout=compact&theme=radical&hide_rank=false" alt="meltemyilmaz024" />
