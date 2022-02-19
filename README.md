@@ -1,6 +1,6 @@
 <p align=”center”>
   
-![Nature business LinkedIn banner](https://user-images.githubusercontent.com/26241718/154819422-7f6267a4-02e8-4531-ae71-3bfa8817e15c.png)
+![Nature_business_LinkedIn_banner-2](https://user-images.githubusercontent.com/26241718/154820928-388953e1-8789-427e-8083-0f3e4b1b99f7.png)
 
 </p>
 
@@ -10,7 +10,7 @@ Github Analytics:
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=meltemyilmaz024&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/meltemyilmaz024/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meltemyilmaz024)](https://github.com/meltemyilmaz024[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meltemyilmaz024)](https://github.com/meltemyilmaz024[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/meltemyilmaz024/github-readme-stats)/github-readme-stats)
 
 
 Connect with me:
