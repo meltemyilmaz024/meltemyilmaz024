@@ -6,7 +6,7 @@
 
 <h3 align="center">Tennis-Nature-Sea</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meltemyilmaz024&label=Profile%20views&color=0e75b6&style=flat" alt="meltemyilmaz024" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=meltemyilmaz024&label=Profile%20views&color=0e75b6&style=flat" alt="meltemyilmaz024" /> </p>
 
 - 🔭 I’m currently working on Havelsan
 
