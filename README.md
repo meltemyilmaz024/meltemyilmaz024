@@ -10,9 +10,6 @@ Github Analytics:
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=meltemyilmaz024&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/meltemyilmaz024/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meltemyilmaz024)](https://github.com/meltemyilmaz024[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/meltemyilmaz024/github-readme-stats)/github-readme-stats)
-
-
 Connect with me:
 
 Language & Tools:
