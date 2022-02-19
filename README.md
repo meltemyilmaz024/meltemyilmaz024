@@ -6,16 +6,11 @@
 
 <h3 align="center">Tennis-Nature-Sea</h3>
 
+<p align="left">
+  
 - 🔭 I’m currently working on Havelsan
 
 - 🌱 I’m currently learning **Deep Learning**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/meltemyilmaz02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meltemyilmaz02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/meltem-yilmaz-832b2a75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meltem-yilmaz-832b2a75" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/myilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="myilmaz" height="30" width="40" /></a>
-<a href="https://kaggle.com/meltemyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="meltemyilmaz" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -25,7 +20,7 @@
 
 <br>
 
-<h1 align="center">GitHub Analytics</h1>
+<h3 align="center">GitHub Analytics</h3>
 <p align="center">
 <a href="https://github.com/meltemyilmaz024">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meltemyilmaz024&show_icons=true&locale=en&theme=radical&hide_rank=false" alt="meltemyilmaz024" />
@@ -33,6 +28,14 @@
 </a>
 </p>
 
+
+<p align="center">
+<a href="https://twitter.com/meltemyilmaz02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meltemyilmaz02" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meltem-yilmaz-832b2a75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meltem-yilmaz-832b2a75" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/myilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="myilmaz" height="30" width="40" /></a>
+<a href="https://kaggle.com/meltemyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="meltemyilmaz" height="30" width="40" /></a>
+</p>
+  
 <!--
 **meltemyilmaz024/meltemyilmaz024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
