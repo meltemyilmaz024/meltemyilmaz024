@@ -1,10 +1,8 @@
 <p align=”center”>
-  
-![Nature_business_LinkedIn_banner-2](https://user-images.githubusercontent.com/26241718/154820928-388953e1-8789-427e-8083-0f3e4b1b99f7.png)
-
+  <img align="center" src="https://github.com/meltemyilmaz024/meltemyilmaz024/blob/main/Black%20Botanical%20Illustrated%20Vegan%20Food%20Blogger%20LinkedIn%20Banner.png" alt="meltemyilmaz02" /> 
 </p>
 
-<h3 align="center">Tennis-Nature-Sea</h3>
+<h3 align="center">:blush:Tennis-Nature-Sea :blush:</h3>
 
 
 <br>
@@ -35,9 +33,14 @@
 </p>
   
 <!--
+
+
+![Nature_business_LinkedIn_banner-2](https://user-images.githubusercontent.com/26241718/154820928-388953e1-8789-427e-8083-0f3e4b1b99f7.png)
+
+
 **meltemyilmaz024/meltemyilmaz024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-#### Technologies 
+
 
 #### Welcome to my profile :blush: ! I hope you can find your medicine :hugs: :wink: 	
 
