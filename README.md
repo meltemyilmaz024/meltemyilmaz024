@@ -28,7 +28,7 @@
 <p align="center">
 <a href="https://twitter.com/meltemyilmaz02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meltemyilmaz02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meltem-yilmaz-832b2a75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meltem-yilmaz-832b2a75" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/myilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="myilmaz" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14793245/myilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="myilmaz" height="30" width="40" /></a>
 <a href="https://kaggle.com/meltemyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="meltemyilmaz" height="30" width="40" /></a>
 </p>
   
