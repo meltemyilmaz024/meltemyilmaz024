@@ -20,7 +20,7 @@
 <p align="center">
 <a href="https://github.com/meltemyilmaz024">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meltemyilmaz024&show_icons=true&locale=en&theme=radical&hide_rank=false" alt="meltemyilmaz024" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltemyilmaz024&show_icons=true&locale=en&layout=compact&theme=radical&hide_rank=false" alt="meltemyilmaz024"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltemyilmaz024&show_icons=true&locale=en&layout=compact&hide=html&langs_count=16&theme=radical&hide_rank=false" alt="meltemyilmaz024"
 </a>
 </p>
 
