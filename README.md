@@ -2,13 +2,17 @@
   <img align="center" src="https://github.com/meltemyilmaz024/meltemyilmaz024/blob/main/Black%20Botanical%20Illustrated%20Vegan%20Food%20Blogger%20LinkedIn%20Banner.png" alt="meltemyilmaz02" /> 
 </p>
 
-<h3 align="center">:blush:Tennis-Nature-Sea :blush:</h3>
+<h3 align="center">:blush: Curious & Adventurer & Diver(@dive.havelsan) & Naturist :blush:</h3>
 
 
 <br>
-<p align="center">  - 🔭 I’m currently working on Havelsan </p>
-<br>
-<p align="center"> - 🌱 I’m currently learning **Deep Learning** </p>
+<p align="center">  🔭 Here's a list of things I currently keep myself busy with: </p>
+
+- 💻 Working as an Big Data Engineer @ HAVELSAN using Docker, Elasticsearch, Kafka, Spark, Airflow, Azure, Databricks.
+
+- ✍️ Writing tech blog posts over at **[Medium](https://medium.com/@meltem.yilmaz024)**.
+
+- :notes: Listening to [@ImagineDragons|@Adele|@thepianoguys]
 <br>
 
 <h2 align="center">Languages and Tools</h2>
@@ -24,7 +28,8 @@
 </a>
 </p>
 
-
+  
+<h2 align="center">Connect with me: </h2>
 <p align="center">
 <a href="https://twitter.com/meltemyilmaz02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meltemyilmaz02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meltem-yilmaz-832b2a75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meltem-yilmaz-832b2a75" height="30" width="40" /></a>
