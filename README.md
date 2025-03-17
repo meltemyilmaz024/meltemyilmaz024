@@ -1,7 +1,3 @@
-<p align=”center”>
-  <img align="center" src="https://github.com/meltemyilmaz024/meltemyilmaz024/blob/main/Black%20Botanical%20Illustrated%20Vegan%20Food%20Blogger%20LinkedIn%20Banner.png" alt="meltemyilmaz02" /> 
-</p>
-
 <h3 align="center">:blush: Advanced Diver & Rider & Adventurer & Naturist :blush:</h3>
 
 
