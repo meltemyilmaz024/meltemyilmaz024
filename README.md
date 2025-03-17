@@ -11,7 +11,9 @@
 - ✍️ Creator: [@feverinheart](https://www.instagram.com/feverinheart/)
 
 
-- :notes: Listening to [@ImagineDragons|@Adele|@thepianoguys]
+- :notes: Favorites [@ImagineDragons | @Adele | @thepianoguys]
+
+-  :notes: Listen with Me @ [Spotify](https://open.spotify.com/user/lkqbgx65v0r0vne0t0ase79au?si=5fc6a3666d11458f)
 <br>
 
 <h2 align="center">Languages and Tools</h2>
