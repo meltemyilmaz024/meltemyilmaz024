@@ -2,15 +2,18 @@
   <img align="center" src="https://github.com/meltemyilmaz024/meltemyilmaz024/blob/main/Black%20Botanical%20Illustrated%20Vegan%20Food%20Blogger%20LinkedIn%20Banner.png" alt="meltemyilmaz02" /> 
 </p>
 
-<h3 align="center">:blush: Curious & Adventurer & Diver(@dive.havelsan) & Naturist :blush:</h3>
+<h3 align="center">:blush: Advanced Diver & Rider & Adventurer & Naturist :blush:</h3>
 
 
 <br>
 <p align="center">  🔭 Here's a list of things I currently keep myself busy with: </p>
 
-- 💻 Working as an Big Data Engineer @ HAVELSAN using Docker, Elasticsearch, Kafka, Spark, Airflow, Azure, Databricks.
+- 💻 Sr. Data Engineer @ ING Turkey
 
-- ✍️ Writing tech blog posts over at **[Medium](https://medium.com/@meltem.yilmaz024)**.
+- ✍️ **[Medium](https://medium.com/@meltem.yilmaz024)**.
+
+- Creator: [@feverinheart](https://www.instagram.com/feverinheart/)
+
 
 - :notes: Listening to [@ImagineDragons|@Adele|@thepianoguys]
 <br>
