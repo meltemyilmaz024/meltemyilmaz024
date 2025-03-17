@@ -10,9 +10,9 @@
 
 - 💻 Sr. Data Engineer @ ING Turkey
 
-- ✍️ **[Medium](https://medium.com/@meltem.yilmaz024)**.
+- ✍️ Blogs: **[Medium](https://medium.com/@meltem.yilmaz024)**
 
-- Creator: [@feverinheart](https://www.instagram.com/feverinheart/)
+- ✍️ Creator: [@feverinheart](https://www.instagram.com/feverinheart/)
 
 
 - :notes: Listening to [@ImagineDragons|@Adele|@thepianoguys]
